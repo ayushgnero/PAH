@@ -35,9 +35,9 @@ while True:
 
 
 
-    def OnEnter(self, event):
-        input = self.txt.GetValue()
-        input = input.lower()
+    #def OnEnter(self, event):
+        #input = self.txt.GetValue()
+        #input = input.lower()
 
 
 if __name__ == "__main__":
